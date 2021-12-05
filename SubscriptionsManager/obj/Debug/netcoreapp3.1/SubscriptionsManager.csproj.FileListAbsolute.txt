@@ -1,0 +1,16 @@
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\bin\Debug\netcoreapp3.1\SubscriptionsManager.exe
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\bin\Debug\netcoreapp3.1\SubscriptionsManager.deps.json
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\bin\Debug\netcoreapp3.1\SubscriptionsManager.runtimeconfig.json
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\bin\Debug\netcoreapp3.1\SubscriptionsManager.runtimeconfig.dev.json
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\bin\Debug\netcoreapp3.1\SubscriptionsManager.dll
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\bin\Debug\netcoreapp3.1\SubscriptionsManager.pdb
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\bin\Debug\netcoreapp3.1\Ardalis.SmartEnum.dll
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.csproj.AssemblyReference.cache
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.AssemblyInfoInputs.cache
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.AssemblyInfo.cs
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.csproj.CoreCompileInputs.cache
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.csproj.CopyComplete
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.dll
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.pdb
+G:\DeskTop\SubscriptionsManager\SubscriptionsManager\obj\Debug\netcoreapp3.1\SubscriptionsManager.genruntimeconfig.cache

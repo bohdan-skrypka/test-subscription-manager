@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqccQoAR5y84i8orGMitm51oM75taMT6RejP7Qr5TtOH538m8WGgCmvZ6EA47Zz6AkuXeFCYvuqjluvCil+QKA==",
+  "success": true,
+  "projectFilePath": "G:\\DeskTop\\SubscriptionsManager\\SubscriptionsManager\\SubscriptionsManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skrip\\.nuget\\packages\\ardalis.smartenum\\2.0.1\\ardalis.smartenum.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
